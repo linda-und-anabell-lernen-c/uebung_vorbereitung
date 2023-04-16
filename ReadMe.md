@@ -6,16 +6,14 @@ Ich versuche euch alles so einfach wie möglich beizubringen - sowohl die Inhalt
 
 ## Vorbereitung
 
-1. Versions-Kontrolle
-   1.1. Installiert [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
-   1.2. Erstellt euch einen [GitHub](<[Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)>) Account
-   1.3 Ich lade euch dann in eine [gemeinsame Organisation](https://github.com/linda-und-anabell-lerenen-c/) ein
-   1.4 Lest [diesen Artikel](https://www.atlassian.com/de/git) und [diesen Artikel](https://code.visualstudio.com/docs/sourcecontrol/overview) oder last euch von mir erklären was Git und GitHub ist
-2. Text Editor
-   2.1 Installiert [VSCode](https://code.visualstudio.com/download)
-   2.3 Installiert folgende Erweiterungen: [C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools), [C/C++ Extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools-extension-pack) & [C/C++ Themes](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools-themes)
-   2.4 Optional, aber Empfohlen sind folgende Erweiterungen: [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens) & [ToDo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
-3. (NUR LINDA) Ich empfehle dir, dir eine Virtual Machine (Also einen Computer in deinem Computer) mit einer Linux Version zu installieren, im Gegensatz zu Windows basieren MacOS und Linux nämlich auf Unix und euer Professor/Übungsleiter in der Uni legt den Großteil seiner Vorschläge und Anweisungen darauf aus - mit gutem Grund, es ist einfach besser. Um also 1:1 machen zu können was Anabell macht und euren Instruktoren (also eurem Prof und mir) folgen zu können wäre das sehr clever, Ich helfe dir dabei sehr gerne.
+1. Installiert [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+2. Erstellt euch einen [GitHub](<[Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)>) Account
+3. Ich lade euch dann in eine [gemeinsame Organisation](https://github.com/linda-und-anabell-lernen-c/) ein
+4. Lest [diesen Artikel](https://www.atlassian.com/de/git) und [diesen Artikel](https://code.visualstudio.com/docs/sourcecontrol/overview) oder last euch von mir erklären was Git und GitHub ist
+5. Installiert [VSCode](https://code.visualstudio.com/download)
+6. Installiert folgende VSCode Erweiterungen: [C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools), [C/C++ Extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools-extension-pack) & [C/C++ Themes](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools-themes)
+7. Optional, aber Empfohlen sind folgende VSCode Erweiterungen: [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens) & [ToDo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
+8. (NUR LINDA) Ich empfehle dir, dir eine Virtual Machine (Also einen Computer in deinem Computer) mit einer Linux Version zu installieren, im Gegensatz zu Windows basieren MacOS und Linux nämlich auf Unix und euer Professor/Übungsleiter in der Uni legt den Großteil seiner Vorschläge und Anweisungen darauf aus - mit gutem Grund, es ist einfach besser. Um also 1:1 machen zu können was Anabell macht und euren Instruktoren (also eurem Prof und mir) folgen zu können wäre das sehr clever, Ich helfe dir dabei sehr gerne.
 
 ## Ablauf
 
